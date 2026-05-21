@@ -28,7 +28,7 @@ print("Efter rebatter blir priset... " + final_price)
 
 ---------------------------------------------------------------------
 
-## Assignment 2 - To ride Balder at Liseberg you must be 130 cm tall. Write a program that can tell you if you can ride!
+# Assignment 2 - To ride Balder at Liseberg you must be 130 cm tall. Write a program that can tell you if you can ride!
 
 reason to test Test_Cases with 3 different values - Boundary Value Analysis testing
 
