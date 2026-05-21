@@ -1,8 +1,8 @@
-# README for exercise_2
-# All programs are implemented as separate modules using def() functions in exercise_2.py.
-# These modules are imported and executed from main.py, where you can choose which program to run and test.
+README for exercise_2
+All programs are implemented as separate modules using def() functions in exercise_2.py.
+These modules are imported and executed from main.py, where you can choose which program to run and test.
 
-# Assignment 1 - error program
+Assignment 1 - error program
 ```python
 is_member = False
 level1 = 100
@@ -28,7 +28,7 @@ print("Efter rebatter blir priset... " + final_price)
 
 ---------------------------------------------------------------------
 
-# Assignment 2 - To ride Balder at Liseberg you must be 130 cm tall. Write a program that can tell you if you can ride!
+Assignment 2 - To ride Balder at Liseberg you must be 130 cm tall. Write a program that can tell you if you can ride!
 
 reason to test Test_Cases with 3 different values - Boundary Value Analysis testing
 
@@ -44,7 +44,7 @@ reason to test Test_Cases with 3 different values - Boundary Value Analysis test
         Result: You can go  
         Explanation: 155 >= 130, so the condition is true. 
 
-# Boundary value analysis
+Boundary value analysis
 
 | Test Value | Meaning         | BVA Category   | Expected Result |
 |----------- |-----------------|----------------|-----------------|
@@ -56,7 +56,7 @@ This confirms that the condition `height >= 130` works correctly for all boundar
 
 --------------------------------------------------------------------- 
 
-# Assignment 3 -  program that asks the user how many goals each team scored, and tells which team won.
+Assignment 3 -  program that asks the user how many goals each team scored, and tells which team won.
 
 3 different cases tested
 
@@ -67,13 +67,13 @@ This confirms that the condition `height >= 130` works correctly for all boundar
 And the program will tell you how many more goals the team won by using 
     
     goals_ahead = abs(tottenham - liverpool) 
-# abs is used for absolute value of number - it removes the - sign and only gives + number
+- abs is used for absolute value of number - it removes the - sign and only gives + number
 
 --------------------------------------------------------------------- 
 
-# Assignment 4 - Write a program that can convert a temperature in degrees Celsius to degrees Fahrenheit.
+Assignment 4 - Write a program that can convert a temperature in degrees Celsius to degrees Fahrenheit.
 
-# Formula for converting between temperature units:
+Formula for converting between temperature units:
     - C = (F - 32) / 1.8
     - F = 1.8 * C + 32
 
